@@ -19,6 +19,7 @@
 		70FA688B091C737F8EF0684E /* Pods-RxPlayground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxPlayground.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RxPlayground/Pods-RxPlayground.debug.xcconfig"; sourceTree = "<group>"; };
 		719411B163F2E1F8EC114745 /* Pods-RxPlayground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxPlayground.release.xcconfig"; path = "Pods/Target Support Files/Pods-RxPlayground/Pods-RxPlayground.release.xcconfig"; sourceTree = "<group>"; };
 		74B8BCA331E32078B79C5D2C /* Pods_RxPlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxPlayground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD09EDEB1E98CF1700E1F453 /* Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Compare.playground; sourceTree = "<group>"; };
 		BDB1CD011E7A1B260024648A /* RxPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDB1CD041E7A1B260024648A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDB1CD061E7A1B260024648A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 				BDB1CD0B1E7A1B260024648A /* Assets.xcassets */,
 				BDB1CD0D1E7A1B260024648A /* LaunchScreen.storyboard */,
 				BDB1CD101E7A1B260024648A /* Info.plist */,
+				BD09EDEB1E98CF1700E1F453 /* Compare.playground */,
 				BDB1CD161E7A1B980024648A /* RxPlaygound.playground */,
 			);
 			path = RxPlayground;

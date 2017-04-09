@@ -86,7 +86,7 @@ example("array") {
 	let array = Variable<[Int]>([])
 	let arrayObservable = array.asObservable()
 
-	arrayObservable.subscribe(onNext: { value in print(value) }).addDisposableTo(disposeBag)
+	arrayObservable.debug("test", trimOutput: true).subscribe(onNext: { value in print(value) }).addDisposableTo(disposeBag)
 
 	for i in 0..<20 {
 		array.value.append(i)
